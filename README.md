@@ -1,5 +1,7 @@
 # XBC1 и ARD/ARH Архиватор
 
+Tool this https://github.com/Nenkai/XbxDeTool
+
 Инструмент для работы с форматами файлов Xenoblade Chronicles: XBC1, ARD и ARH.
 
 ## Возможности
